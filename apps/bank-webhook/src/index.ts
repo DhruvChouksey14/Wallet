@@ -49,3 +49,5 @@ const paymentInformation: {
     }
 
 })
+
+app.listen(3003);
